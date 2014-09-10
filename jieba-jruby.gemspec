@@ -5,7 +5,7 @@ require 'jieba/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "jieba-jruby"
-  spec.version       = AnsjSeg::VERSION
+  spec.version       = Jieba::VERSION
   spec.authors       = ["Howl王"]
   spec.email         = ["mimosa@shareday.com"]
   spec.description   = %q{Jieba for jRuby}
